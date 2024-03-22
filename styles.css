@@ -170,9 +170,7 @@ border-radius: 7px;
 }
 
 .pic1{
-    height: 50%;
-    width: 50%;
-    
+    width: 150px;    
     background: url(hot1.PNG) center center/cover no-repeat;
     padding-left: 50%;
     padding-top: 150px;
